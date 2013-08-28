@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Foggyline_Logger>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Core/>
+            </depends>
+        </Foggyline_Logger>
+    </modules>
+</config>
