@@ -1,6 +1,6 @@
 <?php
 
-class Foggyline_Logger_Adminhtml_Inchoo_LoggerController extends Mage_Adminhtml_Controller_Action
+class Foggyline_Logger_Adminhtml_Foggyline_LoggerController extends Mage_Adminhtml_Controller_Action
 {
     public function indexAction()
     {
